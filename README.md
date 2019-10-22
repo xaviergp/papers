@@ -1,7 +1,7 @@
 
-##Click to download:
+**CLICK TO DOWNLOAD:**
 
-FIRST AUTHOR PAPERS
+**FIRST AUTHOR PAPERS**
 - Guell X, Anteraper SA, Ghosh SS, Gabrieli JDE, Schmahmann JD. [Neurodevelopmental and Psychiatric Symptoms in Patients with a Cyst Compressing the Cerebellum: an Ongoing Enigma](https://www.dropbox.com/s/2olwdr5wr6vhupw/2019%20Neurodevelopmental%20and%20psychiatric%20symptoms%20in%20patients%20with%20a%20cyst%20compressing%20the%20cerebellum.pdf?dl=1) (Cerebellum, 2019)
 - Guell X, Goncalves M, Kaczmarzyk JR, Gabrieli JDE, Schmahmann JD, Ghosh SS. [LittleBrain: a gradient-based tool for the topographical interpretation of cerebellar neuroimaging findings](https://www.dropbox.com/s/pcn37yvlggrd8ie/2019%20LittleBrain.pdf?dl=1) (PLoS ONE, 2019)
 - Guell X, Schmahmann JD, Gabrieli JDE, Ghosh SS. [Functional gradients of the cerebellum](https://www.dropbox.com/s/bflposmq52jq8pp/2018%20Functional%20gradients%20of%20the%20cerebellum.pdf?dl=1) (eLife, 2018)
@@ -9,7 +9,7 @@ FIRST AUTHOR PAPERS
 - Guell X, Gabrieli JDE, Schmahmann JD. [Embodied cognition and the cerebellum: Perspectives from the Dysmetria of Thought and the Universal Cerebellar Transform theories](https://www.dropbox.com/s/0fnsjl7vu3jak1q/2018%20Embodied%20cognition%20and%20the%20cerebellum.pdf?dl=1) (Cortex, 2018)
 - Guell X, Hoche F, Schmahmann JD. [Metalinguistic Deficits in Patients with Cerebellar Dysfunction: Empirical Support for the Dysmetria of Thought Theory](https://www.dropbox.com/s/gl1iwpgsi5m4eaj/2015%20Metalinguistic%20deficits%20in%20patients%20with%20cerebellar%20dysfunction.pdf?dl=1) (Cerebellum, 2015)
 
-CO-AUTHOR PAPERS
+**CO-AUTHOR PAPERS**
 - Schmahmann JD, Guell X, Stoodley CJ, Halko MA. [The Theory and Neuroscience of Cerebellar Cognition](https://www.dropbox.com/s/wk4x32l4orynynm/2019%20The%20theory%20and%20neuroscience%20of%20cerebellar%20cognition.pdf?dl=1) (Annual Review of Neurosci, 2019)
 - Anteraper SA, Guell X, D’Mello A, Joshi N, Joshi G. [Disrupted Cerebrocerebellar Intrinsic Functional Connectivity in Young Adults With High-Functioning Autism Spectrum Disorder: A Data-Driven, Whole-Brain, High Temporal Resolution fMRI Study](https://www.dropbox.com/s/vktlbuyhcbbkglt/2019%20Disrupted%20Cerebro-cerebellar%20Functional%20Connectivity%20in%20ASD.pdf?dl=1) (Brain Connectivity, 2019)
 - Bergé D, Pretus C, Guell X, Pous A, Arcos A, Perez V, Vilarroya O. [Reduced willingness to invest effort in schizophrenia with high negative symptoms is independent of value presentation and effort-cost computation](https://www.dropbox.com/s/00s2bsek7mo2elj/2018%20Reduced%20willigness%20to%20invest%20effort%20in%20schizophrenia.pdf?dl=1) (Comprehensive Psychiatry, 2018)
