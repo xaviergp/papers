@@ -2,7 +2,7 @@
 Click to download:
 
 FIRST AUTHOR PAPERS
-- Guell X, Anteraper SA, Ghosh SS, Gabrieli JDE, Schmahmann JD. [Neurodevelopmental and Psychiatric Symptoms in Patients with a Cyst Compressing the Cerebellum: an Ongoing Enigma (Cerebellum, 2019)](https://www.dropbox.com/s/2olwdr5wr6vhupw/2019%20Neurodevelopmental%20and%20psychiatric%20symptoms%20in%20patients%20with%20a%20cyst%20compressing%20the%20cerebellum.pdf?dl=1)
+- Guell X, Anteraper SA, Ghosh SS, Gabrieli JDE, Schmahmann JD. [Neurodevelopmental and Psychiatric Symptoms in Patients with a Cyst Compressing the Cerebellum: an Ongoing Enigma](https://www.dropbox.com/s/2olwdr5wr6vhupw/2019%20Neurodevelopmental%20and%20psychiatric%20symptoms%20in%20patients%20with%20a%20cyst%20compressing%20the%20cerebellum.pdf?dl=1) (Cerebellum, 2019)
 - Guell X, Goncalves M, Kaczmarzyk JR, Gabrieli JDE, Schmahmann JD, Ghosh SS. [LittleBrain: a gradient-based tool for the topographical interpretation of cerebellar neuroimaging findings (PLoS ONE, 2019)](https://www.dropbox.com/s/pcn37yvlggrd8ie/2019%20LittleBrain.pdf?dl=1)
 - Guell X, Schmahmann JD, Gabrieli JDE, Ghosh SS. [Functional gradients of the cerebellum (eLife, 2018)](https://www.dropbox.com/s/bflposmq52jq8pp/2018%20Functional%20gradients%20of%20the%20cerebellum.pdf?dl=1)
 - Guell X, Gabrieli JDE, Schmahmann JD. [Triple representation of language, working memory, social and emotion processing in the cerebellum: convergent evidence from task and seed-based resting-state fMRI analyses in a single large cohort (Neuroimage, 2018)](https://www.dropbox.com/s/3dj7itva6zmyojz/2018%20Triple%20representation%20of%20language%20working%20memory%20social%20and%20emotion%20processing%20in%20the%20cerebellum%20-%20Copy.pdf?dl=1)
