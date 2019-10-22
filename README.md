@@ -1,25 +1,18 @@
-| News        | Date           |
-| ------------- |:-------------:|
-| LittleBrain version 1.0.0 release| 08/25/2018 |
-| LittleBrain pre-print posted on bioRxiv| 08/26/2018 |
-| LittleBrain version 2.0.0 release<br>(added: non-binary maps, gradient values csv output)| 11/21/2018 |
-| LittleBrain version 3.0.0 release<br>(added: network-colored maps)| 12/13/2018 |
-| LittleBrain PLoS ONE article published| 01/16/2019 |
 
+Click to download:
 
-[Click here to download LittleBrain MANUAL (version 3)](https://github.com/xaviergp/littlebrain/blob/master/LittleBrain_v3_Manual.pdf)
+FIRST AUTHOR PAPERS
+- Guell X, Anteraper SA, Ghosh SS, Gabrieli JDE, Schmahmann JD. [Neurodevelopmental and Psychiatric Symptoms in Patients with a Cyst Compressing the Cerebellum: an Ongoing Enigma (Cerebellum, 2019)](https://www.dropbox.com/s/2olwdr5wr6vhupw/2019%20Neurodevelopmental%20and%20psychiatric%20symptoms%20in%20patients%20with%20a%20cyst%20compressing%20the%20cerebellum.pdf?dl=1)
+- Guell X, Goncalves M, Kaczmarzyk JR, Gabrieli JDE, Schmahmann JD, Ghosh SS. [LittleBrain: a gradient-based tool for the topographical interpretation of cerebellar neuroimaging findings (PLoS ONE, 2019)](https://www.dropbox.com/s/pcn37yvlggrd8ie/2019%20LittleBrain.pdf?dl=1)
+- Guell X, Schmahmann JD, Gabrieli JDE, Ghosh SS. [Functional gradients of the cerebellum (eLife, 2018)](https://www.dropbox.com/s/bflposmq52jq8pp/2018%20Functional%20gradients%20of%20the%20cerebellum.pdf?dl=1)
+- Guell X, Gabrieli JDE, Schmahmann JD. [Triple representation of language, working memory, social and emotion processing in the cerebellum: convergent evidence from task and seed-based resting-state fMRI analyses in a single large cohort (Neuroimage, 2018)](https://www.dropbox.com/s/3dj7itva6zmyojz/2018%20Triple%20representation%20of%20language%20working%20memory%20social%20and%20emotion%20processing%20in%20the%20cerebellum%20-%20Copy.pdf?dl=1)
+- Guell X, Gabrieli JDE, Schmahmann JD. [Embodied cognition and the cerebellum: Perspectives from the Dysmetria of Thought and the Universal Cerebellar Transform theories (Cortex, 2018)](https://www.dropbox.com/s/0fnsjl7vu3jak1q/2018%20Embodied%20cognition%20and%20the%20cerebellum.pdf?dl=1)
+- Guell X, Hoche F, Schmahmann JD. [Metalinguistic Deficits in Patients with Cerebellar Dysfunction: Empirical Support for the Dysmetria of Thought Theory (Cerebellum, 2015)](https://www.dropbox.com/s/gl1iwpgsi5m4eaj/2015%20Metalinguistic%20deficits%20in%20patients%20with%20cerebellar%20dysfunction.pdf?dl=0)
 
-[Click here to access full LittleBrain toolbox article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210028)
-
-[Click here to access full Functional gradients article](https://elifesciences.org/articles/36652)
-
-> Please cite:
-> - Guell X, Schmahmann JD, Gabrieli JDE, Ghosh SS. Functional gradients of the cerebellum. eLife 2018;7:e36652 DOI: 10.7554/eLife.36652
-> - Guell X, Goncalves M, Kaczmarzyk JR, Gabrieli JDE, Schmahmann JD, Ghosh SS (2019) LittleBrain: A gradient-based tool for the topographical interpretation of cerebellar neuroimaging findings. PLoS ONE 14(1): e0210028.
-
-
-> Questions?
-> - email: littlebraintoolbox@gmail.com
-> - or post an issue here: https://github.com/xaviergp/littlebrain/issues
-
-Developed at MIT and MGH in 2018.
+CO-AUTHOR PAPERS
+- Schmahmann JD, Guell X, Stoodley CJ, Halko MA. [The Theory and Neuroscience of Cerebellar Cognition (Annual Review of Neurosci, 2019)](https://www.dropbox.com/s/wk4x32l4orynynm/2019%20The%20theory%20and%20neuroscience%20of%20cerebellar%20cognition.pdf?dl=1)
+- Anteraper SA, Guell X, D’Mello A, Joshi N, Joshi G. [Disrupted Cerebrocerebellar Intrinsic Functional Connectivity in Young Adults With High-Functioning Autism Spectrum Disorder: A Data-Driven, Whole-Brain, High Temporal Resolution fMRI Study (Brain Connectivity, 2019)](https://www.dropbox.com/s/vktlbuyhcbbkglt/2019%20Disrupted%20Cerebro-cerebellar%20Functional%20Connectivity%20in%20ASD.pdf?dl=1)
+- Bergé D, Pretus C, Guell X, Pous A, Arcos A, Perez V, Vilarroya O. [Reduced willingness to invest effort in schizophrenia with high negative symptoms is independent of value presentation and effort-cost computation (Comprehensive Psychiatry, 2018)](https://www.dropbox.com/s/00s2bsek7mo2elj/2018%20Reduced%20willigness%20to%20invest%20effort%20in%20schizophrenia.pdf?dl=1)
+- Hoche F, Guell X, Vangel MG, Sherman JC, Schmahmann JD. [The cerebellar cognitive affective/Schmahmann syndrome scale (Brain, 2018)](https://www.dropbox.com/s/1jl3911v46ynmgx/2018%20The%20cerebellar%20cognitive%20affective%20Schmahmann%20syndrome%20scale.pdf?dl=1)
+- Anteraper SA, Guell X, Whitfield-Gabrieli S, Triantafyllou C, Mattfeld AT, Gabrieli JD, Geddes MR. [Resting-State Functional Connectivity of the Subthalamic Nucleus to Limbic, Associative, and Motor Networks (Brain Connectivity, 2018)](https://www.dropbox.com/s/qxke2y9ab6sso1t/2018%20Resting-state%20connectivity%20of%20the%20subthalamic%20nucleus.pdf?dl=1)
+- Hoche F, Guell X, Sherman JC, Vangel MG, Schmahmann JD. [Cerebellar contribution to social cognition (Cerebellum, 2016)](https://www.dropbox.com/s/a954ex7nm844k1w/2016%20Cerebellar%20contribution%20to%20social%20cognition.pdf?dl=1)
