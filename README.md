@@ -3,7 +3,7 @@
 
 **FIRST AUTHOR PAPERS**
 - Guell X, Schmahmann JD. [Cerebellar Functional Anatomy: a Didactic Summary Based on Human fMRI Evidence](https://www.dropbox.com/s/mcjkzjy1wnzpp5c/2019%20Cerebellar%20Functional%20Anatomy%20a%20Didactic%20Summary.pdf?dl=1) (*Cerebellum*, 2019)
-- Guell X, D’Mello AM, Hubbard NA, Romeo RR, Gabrieli JDE, Whitfield-Gabrieli S, Schmahmann JD, Anteraper SA. [Functional Territories of Human Dentate Nucleus](https://www.dropbox.com/s/uufj4zblez9nyhk/2019%20Functional%20territories%20of%20human%20dentate%20nucleus.pdf?dl=1) (Cerebral Cortex, 2019)
+- Guell X, D’Mello AM, Hubbard NA, Romeo RR, Gabrieli JDE, Whitfield-Gabrieli S, Schmahmann JD, Anteraper SA. [Functional Territories of Human Dentate Nucleus](https://www.dropbox.com/s/uufj4zblez9nyhk/2019%20Functional%20territories%20of%20human%20dentate%20nucleus.pdf?dl=1) (*Cerebral Cortex*, 2019)
 - Guell X, Anteraper SA, Ghosh SS, Gabrieli JDE, Schmahmann JD. [Neurodevelopmental and Psychiatric Symptoms in Patients with a Cyst Compressing the Cerebellum: an Ongoing Enigma](https://www.dropbox.com/s/2olwdr5wr6vhupw/2019%20Neurodevelopmental%20and%20psychiatric%20symptoms%20in%20patients%20with%20a%20cyst%20compressing%20the%20cerebellum.pdf?dl=1) (*Cerebellum*, 2019)
 - Guell X, Goncalves M, Kaczmarzyk JR, Gabrieli JDE, Schmahmann JD, Ghosh SS. [LittleBrain: a gradient-based tool for the topographical interpretation of cerebellar neuroimaging findings](https://www.dropbox.com/s/pcn37yvlggrd8ie/2019%20LittleBrain.pdf?dl=1) (*Plos One*, 2019)
 - Guell X, Schmahmann JD, Gabrieli JDE, Ghosh SS. [Functional gradients of the cerebellum](https://www.dropbox.com/s/bflposmq52jq8pp/2018%20Functional%20gradients%20of%20the%20cerebellum.pdf?dl=1) (*eLife*, 2018)
