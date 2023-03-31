@@ -2,6 +2,7 @@
 **CLICK TO DOWNLOAD:**
 
 **FIRST AUTHOR PAPERS**
+- Guell X, Schmahmann JD. fMRI-Based Anatomy: Mapping the Cerebellum (*Book chapter in: Essentials of Cerebellum and Cerebellar Disorders, 2023*)
 - Guell X. [Functional Gradients of the Cerebellum: a Review of Practical Applications](https://www.dropbox.com/s/peg1wvdjrgltmom/2021%20Functional%20Gradients%20of%20the%20Cerebellum%20a%20Review%20of%20Practical%20Applications.pdf?dl=0) (*Cerebellum*, 2021) [DOWNLOAD](https://www.dropbox.com/s/peg1wvdjrgltmom/2021%20Functional%20Gradients%20of%20the%20Cerebellum%20a%20Review%20of%20Practical%20Applications.pdf?dl=0)
 - Guell X, D’Mello AM, Hubbard NA, Romeo RR, Gabrieli JDE, Whitfield-Gabrieli S, Schmahmann JD, Anteraper SA. [Functional Territories of Human Dentate Nucleus](https://www.dropbox.com/s/q9x9tnw2mx59snh/2020%20Functional%20territories%20of%20human%20dentate%20nucleus.pdf?dl=0) (*Cerebral Cortex*, 2020) [DOWNLOAD](https://www.dropbox.com/s/q9x9tnw2mx59snh/2020%20Functional%20territories%20of%20human%20dentate%20nucleus.pdf?dl=0)
 - Guell X, Schmahmann JD. [Cerebellar Functional Anatomy: a Didactic Summary Based on Human fMRI Evidence](https://www.dropbox.com/s/ur79le1np9ggahx/2020%20Cerebellar%20Functional%20Anatomy%20a%20Didactic%20Summary.pdf?dl=0) (*Cerebellum*, 2020) [DOWNLOAD](https://www.dropbox.com/s/ur79le1np9ggahx/2020%20Cerebellar%20Functional%20Anatomy%20a%20Didactic%20Summary.pdf?dl=0)
