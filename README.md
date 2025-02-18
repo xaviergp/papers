@@ -2,8 +2,7 @@ If you are interested in my "All about the cerebellum" lecture for the National 
 
 If you are interested in anatomy lectures, [click here](https://www.dropbox.com/scl/fo/91fgtqh4lg4p4o77i7brk/h?rlkey=jbp1g0w8isa9obvnhhxhrxhhu&dl=0)
 
-
-**CLICK TO DOWNLOAD:**
+If you are interested in my publications, click the DOWNLOAD buttons below:
 
 **FIRST AUTHOR PAPERS**
 - Guell X, Schmahmann JD. [Diaschisis in the human brain reveals specificity of cerebrocerebellar connections](https://www.dropbox.com/scl/fi/8pb4ffxktgos0x9qdi2u7/2023-Diaschisis-in-the-human-brain-reveals-specificity-of-cerebrocerebellar-connections.pdf?rlkey=dhzvygfc0dm30t05q719am89r&dl=0) (*Journal of Comparative Neurology*, 2023) [DOWNLOAD](https://www.dropbox.com/scl/fi/8pb4ffxktgos0x9qdi2u7/2023-Diaschisis-in-the-human-brain-reveals-specificity-of-cerebrocerebellar-connections.pdf?rlkey=dhzvygfc0dm30t05q719am89r&dl=0)
