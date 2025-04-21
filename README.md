@@ -1,7 +1,8 @@
-If you are interested in my "All about the cerebellum" lecture for the National Ataxia Foundation, [click here](https://www.youtube.com/watch?v=pr3woK4pmj0)
-
-If you are interested in anatomy lectures, [click here](https://www.dropbox.com/scl/fo/91fgtqh4lg4p4o77i7brk/h?rlkey=jbp1g0w8isa9obvnhhxhrxhhu&dl=0)
-
+If you are interested in my lectures:
+- "All about the cerebellum" lecture for the National Ataxia Foundation, [click here](https://www.youtube.com/watch?v=pr3woK4pmj0)
+- Sectional anatomy lecture series, [click here](https://www.dropbox.com/scl/fo/91fgtqh4lg4p4o77i7brk/h?rlkey=jbp1g0w8isa9obvnhhxhrxhhu&dl=0)
+- Introduction to the cerebellum for medical students, [click here](https://www.dropbox.com/scl/fi/2b1oduu6jbr0x5scy7lzm/Cerebellum_IntroductionForMedicalStudents_XavierGuellParadis.mp4?rlkey=lfbw3b736j6oakpt3gmog8cge&dl=0)
+  
 If you are interested in my publications, click the DOWNLOAD buttons below:
 
 **FIRST AUTHOR PAPERS**
