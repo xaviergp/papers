@@ -1,7 +1,11 @@
 If you are interested in my lectures:
 - "All about the cerebellum" lecture for the National Ataxia Foundation, [click here](https://www.youtube.com/watch?v=pr3woK4pmj0)
 - Sectional anatomy lecture series, [click here](https://www.dropbox.com/scl/fo/91fgtqh4lg4p4o77i7brk/h?rlkey=jbp1g0w8isa9obvnhhxhrxhhu&dl=0)
-  
+
+Works in progress:
+- Macroscale Neuroanatomy (book)
+- Handbook of Movement Disorders Diagnosis and Management (book)
+
 If you are interested in my publications, click the DOWNLOAD buttons below:
 
 **FIRST AUTHOR PAPERS**
