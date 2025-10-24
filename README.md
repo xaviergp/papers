@@ -1,4 +1,4 @@
-<img width="468" height="38" alt="image" src="https://github.com/user-attachments/assets/551b22cc-ff7a-45c5-966e-0ec536ffb650" />If you are interested in my lectures:
+If you are interested in my lectures:
 - "All about the cerebellum" lecture for the National Ataxia Foundation, [click here](https://www.youtube.com/watch?v=pr3woK4pmj0)
 - Sectional anatomy lecture series, [click here](https://www.dropbox.com/scl/fo/91fgtqh4lg4p4o77i7brk/h?rlkey=jbp1g0w8isa9obvnhhxhrxhhu&dl=0)
 
