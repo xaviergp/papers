@@ -1,12 +1,10 @@
-If you are interested in my lectures:
+Lectures:
 - "All about the cerebellum" lecture for the National Ataxia Foundation, [click here](https://www.youtube.com/watch?v=pr3woK4pmj0)
 - Sectional anatomy lecture series, [click here](https://www.dropbox.com/scl/fo/91fgtqh4lg4p4o77i7brk/h?rlkey=jbp1g0w8isa9obvnhhxhrxhhu&dl=0)
 
-Works in progress:
-- Macroscale Neuroanatomy (book)
-- Handbook of Movement Disorders Diagnosis and Management (book)
-
-If you are interested in my publications, click the DOWNLOAD buttons below:
+In progress:
+- Macroscale Neuroanatomy (book); a project that combines ultra-high resolution MRI, fresh brain specimens, and plastinated brain specimens
+- Handbook of Movement Disorders Diagnosis and Management (book); a project that synthesizes our didactic series for the movement disorders fellowship at New York University
 
 **FIRST AUTHOR PAPERS**
 - Guell X, Schmahmann JD. [Phenoconsonance: a new form of neurological analysis that complements anatomical localization and disease pattern recognition](https://www.dropbox.com/scl/fi/elcpufvull4fbip12szmi/2025-Phenoconsonance.pdf?rlkey=z2ncilwu9ykas3mci0mqelcu8&dl=0) (*J Neuropsychiatry Clin Neurosci*, 2025) [DOWNLOAD](https://www.dropbox.com/scl/fi/elcpufvull4fbip12szmi/2025-Phenoconsonance.pdf?rlkey=z2ncilwu9ykas3mci0mqelcu8&dl=0)
@@ -25,7 +23,7 @@ If you are interested in my publications, click the DOWNLOAD buttons below:
 
 **CO-AUTHOR PAPERS**
 - Kakei S, Bostan AC, Ebner TJ, Fakharian MA, Gomi H, Guell X, Hemelt M, Hoang H, Hull C, Inoue M, Ishikawa T, Kameda M, Kawato M, Kitazawa K, Manto M, Medina JF, Mitoma H, Ohmae K, Ohmae S, Okada K, Popa LS, Schmahmann JD, Shadmehr R, Strick PL, Tanaka H, Tanaka M, Yamazaki T. Consensus Paper: Models of Cerebellar Function. (*Cerebellum*, 2025, in press).
-- Kulkarni M, Kent JS, Park K, Guell X, Anteraper S. [Resting‑state functional connectivity‑based parcellation of the human dentate nucleus: new fndings and clinical relevance](https://www.dropbox.com/scl/fi/jfyh6qlvp80rizc9c0xlr/2023-Resting-state-functional-connectivity-based-parcellation-of-the-human-dentate-nucleus-New-findings-and-clinical-relevance.pdf?rlkey=wtzoyui4rl2xrc7ajn2gn9bhg&dl=0) (*Brain Structure and Function*, 2023) [DOWNLOAD](https://www.dropbox.com/scl/fi/jfyh6qlvp80rizc9c0xlr/2023-Resting-state-functional-connectivity-based-parcellation-of-the-human-dentate-nucleus-New-findings-and-clinical-relevance.pdf?rlkey=wtzoyui4rl2xrc7ajn2gn9bhg&dl=0)
+- Kulkarni M, Kent JS, Park K, Guell X, Anteraper S. [Resting‑state functional connectivity‑based parcellation of the human dentate nucleus: new findings and clinical relevance](https://www.dropbox.com/scl/fi/jfyh6qlvp80rizc9c0xlr/2023-Resting-state-functional-connectivity-based-parcellation-of-the-human-dentate-nucleus-New-findings-and-clinical-relevance.pdf?rlkey=wtzoyui4rl2xrc7ajn2gn9bhg&dl=0) (*Brain Structure and Function*, 2023) [DOWNLOAD](https://www.dropbox.com/scl/fi/jfyh6qlvp80rizc9c0xlr/2023-Resting-state-functional-connectivity-based-parcellation-of-the-human-dentate-nucleus-New-findings-and-clinical-relevance.pdf?rlkey=wtzoyui4rl2xrc7ajn2gn9bhg&dl=0)
 - Arleo A, Bares M, Bernard J, Bogoian H, Bruchhage M, Bryant P, Carlson E, Chan C, Chen L, Chung C, Dotson V, Filip P, Guell X, Habas H, Jacobs H, Kakei S, Lee T, Leggio M, Misiura M, Mitoma H, Olivito G, Ramanoel S, Rezaee Z, Samstag C, Schmahmann J, Sekiyama K, Wong C, Yamashita M, Manto M. [Consensus Paper: Cerebellum and Ageing](https://www.dropbox.com/scl/fi/gaiq0xp8nheoprcdfhnoj/2023-Consensus-Paper-Cerebellum-and-Ageing.pdf?rlkey=94uwo623d47nbj59sakvhqbet&dl=0) (*Cerebellum*, 2023) [DOWNLOAD](https://www.dropbox.com/scl/fi/gaiq0xp8nheoprcdfhnoj/2023-Consensus-Paper-Cerebellum-and-Ageing.pdf?rlkey=94uwo623d47nbj59sakvhqbet&dl=0)
 - Gheihman G, Guell X, O’Neal MA. [A man with left-sided weakness
 and numbness](https://www.dropbox.com/s/nzcdlu0jkluuue8/2023%20A%20man%20with%20left%20sided%20weakness%20and%20numbness.pdf?dl=0) (*Emerg Med J*, 2023) [DOWNLOAD](https://www.dropbox.com/s/nzcdlu0jkluuue8/2023%20A%20man%20with%20left%20sided%20weakness%20and%20numbness.pdf?dl=0)
